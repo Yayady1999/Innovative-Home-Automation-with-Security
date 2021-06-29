@@ -1,0 +1,32 @@
+com/example/ihaws/databinding/ActivityMainBinding.java
+ com.example.ihaws.databinding.ActivityMainBinding
+com/example/ihaws/databinding/ForgotPasswordDialogBinding.java
+ com.example.ihaws.databinding.ForgotPasswordDialogBinding
+com/example/ihaws/databinding/FragmentLogoutBinding.java
+ com.example.ihaws.databinding.FragmentLogoutBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/ihaws/databinding/FragmentControlpanelBinding.java
+ com.example.ihaws.databinding.FragmentControlpanelBinding
+com/example/ihaws/BR.java
+ com.example.ihaws.BR
+com/example/ihaws/databinding/ActivityNavigationBinding.java
+ com.example.ihaws.databinding.ActivityNavigationBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/ihaws/DataBindingTriggerClass.java
+ com.example.ihaws.DataBindingTriggerClass
+com/example/ihaws/databinding/FragmentAboutBinding.java
+ com.example.ihaws.databinding.FragmentAboutBinding
+com/example/ihaws/databinding/FragmentChangepasswordBinding.java
+ com.example.ihaws.databinding.FragmentChangepasswordBinding
+com/example/ihaws/DataBinderMapperImpl.java
+ com.example.ihaws.DataBinderMapperImpl
+ com.example.ihaws.DataBinderMapperImpl$InnerBrLookup
+ com.example.ihaws.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/ihaws/databinding/NavHeaderBinding.java
+ com.example.ihaws.databinding.NavHeaderBinding
+com/example/ihaws/BuildConfig.java
+ com.example.ihaws.BuildConfig
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
